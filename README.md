@@ -1,6 +1,6 @@
 <div align="center">
 
-![IKHOS — the live world](assets/ikhos-banner.png)
+![IKHOS — the live world](ikhos-banner.png)
 
 <sub><em>The live world, First Cairn above Second Node — visitor frontend in progress.</em></sub>
 
